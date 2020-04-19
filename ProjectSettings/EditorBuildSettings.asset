@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Screen.unity
+    guid: 982edbbf22a96ec4194103d8f78b759f
+  - enabled: 1
+    path: Assets/Scenes/Level Select.unity
+    guid: 288dddc970d0c4e4f870482b99eecff6
+  - enabled: 1
+    path: Assets/Scenes/Playing Scene.unity
+    guid: 09cbe65b78026d546a4e5b9393066ada
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: a56f496ce14c7f045961c1a3d1fe07d1
+  - enabled: 1
+    path: Assets/Scenes/Deck Edit Scene.unity
+    guid: 9dc6933b5d1ef524f93716784d8f5d11
+  m_configObjects: {}
